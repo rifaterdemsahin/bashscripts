@@ -10,5 +10,8 @@
 # Sign with CA
 ![alt text](/Resources/signwithca.png.png)
 
-# Verify Certs
+# Verify Top Cert
 ![alt text](/Resources/verify.png.png)
+
+# Verify Sub Cert
+![alt text](/Resources/verifysubcert.png)
