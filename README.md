@@ -1,6 +1,3 @@
-Sure! Here's a sample Markdown file with some basic Bash scripts:
-
-```markdown
 # Sample Bash Scripts
 
 ## Script 1: Hello World
@@ -63,7 +60,3 @@ This script updates the system packages (for Debian-based systems).
 # Update package list and upgrade all packages
 sudo apt update && sudo apt upgrade -y
 ```
-
-```
-
-Feel free to modify these scripts to suit your needs! If you have any specific requirements or need more examples, let me know.
