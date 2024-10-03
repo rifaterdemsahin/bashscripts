@@ -94,3 +94,6 @@ helm upgrade --install thanos bitnami/thanos -f values.yaml
 
 By following these steps, you will have generated and configured certificates for secure communication between Thanos components. If you encounter any issues or have questions, feel free to reach out!
 
+```
+
+Feel free to customize this guide as needed for your specific setup. If you need further assistance, just let me know!
