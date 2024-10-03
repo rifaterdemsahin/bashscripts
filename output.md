@@ -6,3 +6,9 @@
 
 # Check the certificate by cat on codespaces
 ![alt text](/Resources/catcert.png)
+
+# Sign with CA
+![alt text](/Resources/signwithca.png.png)
+
+# Verify Certs
+![alt text](/Resources/verify.png.png)
